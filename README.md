@@ -2,6 +2,8 @@
 CS 280 Assign 1
 This is a practice question from Absolute Java 
 
+The code I created is in Administrator.java
+
 Define a class called Administrator, which is a derived class of the class SalariedEmployee in Display 7.5. You are to supply the following additional 
 instance variables and methods:
 
