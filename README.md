@@ -1,8 +1,8 @@
 # Derived-Class--Administrator.java
-CS 280 Assignment 1
 
 The code I created is in Administrator.java
 
+Absolute Java Chp 7 Project 4
 
 Define a class called Administrator, which is a derived class of the class SalariedEmployee in Display 7.5. You are to supply the following additional 
 instance variables and methods:
